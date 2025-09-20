@@ -1,4 +1,4 @@
-# EagleQ Algorithmic Trading Strategy
+# EMA CrossOver Algorithmic Trading Strategy
 
 A Moving Average Crossover Strategy implementation for E-mini S&P 500 futures trading, built with Nautilus Trader and Databento.
 
